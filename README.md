@@ -150,12 +150,15 @@ Hey! I'm **Enock Tai**, a Software Engineering student who enjoys learning by bu
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Taienock241&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-    alt="GitHub contribution activity graph"
-  />
+  <a href="https://github.com/Taienock241">
+    <img
+      src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Taienock241&bg_color=00000000&color=8957e5&line=8957e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph"
+      alt="Enock's GitHub contribution activity graph"
+      width="100%"
+    />
+  </a>
 </p>
+
 
 ---
 
