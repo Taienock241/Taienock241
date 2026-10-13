@@ -91,7 +91,7 @@ Hey! I'm **Enock Tai**, a Software Engineering student who enjoys learning by bu
       <h3>📚 Daily Code Journey</h3>
       <p>A hands-on repository documenting my progress in Java and Dart, one small programming concept at a time.</p>
       <p><strong>Focus:</strong> Programming fundamentals, consistency and clean commits.</p>
-      <a href="https://github.com/Taienock241/daily-code-journey">View repository →</a>
+      <a href="https://github.com/Taienock241/Java-Dart-learning-journey.git">View repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>📱 Mobile Development</h3>
